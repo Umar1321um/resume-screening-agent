@@ -1,3 +1,24 @@
+🔗 **Live App:** [resume-screening-agent-6tpz.onrender.com]
+(https://resume-screening-agent-6tpz.onrender.com)
+
+> ⚠️ Hosted on a free tier — the app may take 30–60 seconds to wake up on first visit.
+
+📂 **GitHub Repo:** https://github.com/Umar1321um/resume-screening-agent
+---
+
+## 🚀 Live Demo
+
+Paste a job description, upload a batch of resumes (or use the bundled sample data), and get back a ranked, explained shortlist — right in your browser.
+
+
+
+![App Screenshot](docs/screenshot.png)
+
+
+
+**Try it now →** [resume-screening-agent-6tpz.onrender.com](https://resume-screening-agent-6tpz.onrender.com)
+
+---
 # Resume Screening Agent
 
 Ranks a folder of resumes (PDF / DOCX / TXT) against a Job Description using
