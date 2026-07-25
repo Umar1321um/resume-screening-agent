@@ -1,0 +1,22 @@
+Emily Watson
+Chicago, IL | emily.watson@email.com | (312) 555-0123
+
+SUMMARY
+Marketing manager with 7 years of experience in digital marketing campaigns,
+brand strategy, and content creation. No software engineering background.
+
+EXPERIENCE
+Marketing Manager, Bloom Retail Co. (2019 - Present)
+- Led digital marketing campaigns across social media and email channels
+- Managed a team of 4 marketing associates
+- Analyzed campaign performance using Google Analytics and Excel
+
+Marketing Associate, Trendline Media (2016 - 2019)
+- Created content calendars and coordinated with design teams
+- Ran A/B tests on ad creatives
+
+EDUCATION
+B.A. in Marketing, University of Illinois, 2016
+
+SKILLS
+Digital Marketing, SEO, Google Analytics, Content Strategy, Excel, Adobe Creative Suite

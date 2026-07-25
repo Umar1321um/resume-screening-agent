@@ -1,0 +1,22 @@
+Liam O'Connor
+Dublin, Ireland | liam.oconnor@email.com | +353-87-555-0134
+
+SUMMARY
+Junior software developer with 1 year of experience, recent computer science
+graduate with academic projects in Python and web development.
+
+EXPERIENCE
+Junior Developer, Emerald Tech Start-up (2024 - Present)
+- Built small Flask APIs for internal tools
+- Wrote basic SQL queries against SQLite for a class project turned prototype
+- Learning Docker and Git workflows on the job
+
+Academic Projects
+- Built a course-scheduling web app using Django and SQLite
+- Built a simple REST API for a to-do list app using Flask
+
+EDUCATION
+B.Sc. in Computer Science, Trinity College Dublin, 2024
+
+SKILLS
+Python, Flask, Django, SQLite, Git, HTML, CSS, basic Docker

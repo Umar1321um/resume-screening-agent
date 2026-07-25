@@ -1,0 +1,25 @@
+Michael Chen
+Seattle, WA | michael.chen@email.com | (206) 555-0199
+
+SUMMARY
+Backend engineer with 6 years of experience specializing in distributed systems
+and cloud infrastructure using Python and Java.
+
+EXPERIENCE
+Staff Software Engineer, CloudPeak Inc. (2020 - Present)
+- Architected microservices in Python (FastAPI) and Java (Spring Boot) running on Kubernetes
+- Designed data pipelines handling petabyte-scale datasets using Kafka and Spark
+- Managed CI/CD pipelines with Jenkins and ArgoCD across AWS and GCP
+- Mentored a team of 5 engineers, led architecture reviews
+
+Software Engineer, NetScale Systems (2017 - 2020)
+- Built REST and gRPC APIs in Python and Go
+- Optimized PostgreSQL queries, reducing latency by 40%
+
+EDUCATION
+M.S. in Computer Science, University of Washington, 2017
+B.S. in Computer Science, Georgia Tech, 2015
+
+SKILLS
+Python, Java, Go, FastAPI, Spring Boot, Kubernetes, Docker, Kafka, Spark,
+PostgreSQL, AWS, GCP, CI/CD, Microservices, gRPC, Agile

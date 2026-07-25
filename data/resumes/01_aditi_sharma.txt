@@ -1,0 +1,25 @@
+Aditi Sharma
+Bengaluru, India | aditi.sharma@email.com | +91-98xxxxxxx0 | linkedin.com/in/aditisharma
+
+SUMMARY
+Backend software engineer with 5 years of experience building scalable REST APIs
+and data pipelines in Python. Strong background in FastAPI, PostgreSQL, and AWS.
+
+EXPERIENCE
+Senior Backend Engineer, Zenith Cloud Systems (2021 - Present)
+- Designed and built microservices using FastAPI and Docker, deployed on AWS EKS
+- Built ETL data pipelines processing 50M+ records/day using Airflow and PostgreSQL
+- Led migration from monolith to microservices, reducing deploy time by 60%
+- Mentored 3 junior engineers and ran weekly code reviews
+
+Backend Engineer, Datalink Pvt Ltd (2019 - 2021)
+- Developed REST APIs with Flask and Django for internal analytics tools
+- Wrote unit and integration tests, maintained CI/CD pipelines using GitHub Actions
+- Worked with MongoDB and Redis for caching and session storage
+
+EDUCATION
+B.Tech in Computer Science, Indian Institute of Technology (IIT), 2019
+
+SKILLS
+Python, FastAPI, Flask, Django, PostgreSQL, MongoDB, Redis, Docker, Kubernetes,
+AWS, Git, CI/CD, Microservices, Kafka, Agile, Unit Testing

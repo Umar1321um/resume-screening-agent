@@ -1,0 +1,22 @@
+Arjun Mehta
+Hyderabad, India | arjun.mehta@email.com | +91-95xxxxxxx7
+
+SUMMARY
+Backend developer with 2 years of experience building APIs and working with
+databases, eager to grow into a senior engineering role.
+
+EXPERIENCE
+Backend Developer, Swift Software Pvt Ltd (2023 - Present)
+- Built REST APIs using Django REST Framework for a logistics platform
+- Wrote SQL queries against MySQL and optimized slow endpoints
+- Wrote unit tests using pytest, integrated with GitHub Actions CI
+
+Intern Software Developer, CodeNext Labs (2022 - 2023)
+- Assisted in building internal Flask tools for data reporting
+- Learned Docker basics for local development environments
+
+EDUCATION
+B.Tech in Information Technology, Osmania University, 2022
+
+SKILLS
+Python, Django, Flask, MySQL, REST APIs, Git, pytest, Docker (basic), Agile

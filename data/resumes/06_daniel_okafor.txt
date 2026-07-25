@@ -1,0 +1,24 @@
+Daniel Okafor
+Austin, TX | daniel.okafor@email.com | (512) 555-0176
+
+SUMMARY
+DevOps / Backend engineer with 4 years of experience automating cloud
+infrastructure and building Python services for internal platforms.
+
+EXPERIENCE
+DevOps Engineer, Vertex Cloud (2021 - Present)
+- Built infrastructure-as-code using Terraform for AWS and GCP
+- Wrote Python automation scripts and internal APIs using Flask
+- Managed Kubernetes clusters and Docker-based deployments
+- Set up CI/CD pipelines with GitLab CI and Jenkins
+
+Systems Engineer, Northgate IT Services (2019 - 2021)
+- Automated deployment workflows using Python and Bash
+- Maintained PostgreSQL and Redis infrastructure
+
+EDUCATION
+B.S. in Information Systems, University of Texas at Austin, 2019
+
+SKILLS
+Python, Flask, Terraform, Docker, Kubernetes, AWS, GCP, CI/CD, PostgreSQL,
+Redis, Git, Bash, Agile

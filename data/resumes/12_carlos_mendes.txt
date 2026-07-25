@@ -1,0 +1,22 @@
+Carlos Mendes
+Lisbon, Portugal | carlos.mendes@email.com | +351-91-5550177
+
+SUMMARY
+QA engineer with 4 years of experience in manual and automated testing, with
+some exposure to Python scripting for test automation.
+
+EXPERIENCE
+QA Automation Engineer, TestForge Solutions (2021 - Present)
+- Wrote automated test scripts using Python and Selenium
+- Built basic API test suites using pytest and Postman
+- Collaborated with backend teams to reproduce and triage bugs
+
+QA Analyst, Bright Software House (2019 - 2021)
+- Performed manual regression testing for web applications
+- Wrote test plans and documented defects in Jira
+
+EDUCATION
+B.Sc. in Software Engineering, University of Lisbon, 2019
+
+SKILLS
+Python (scripting), Selenium, pytest, Postman, Jira, Manual Testing, SQL (basic)

@@ -1,0 +1,24 @@
+Rahul Verma
+Pune, India | rahul.verma@email.com | +91-97xxxxxxx1
+
+SUMMARY
+Full-stack developer with 3+ years of experience, primarily focused on Python
+backend development and cloud deployments.
+
+EXPERIENCE
+Software Engineer, BrightWave Technologies (2022 - Present)
+- Built RESTful APIs in Django for an e-commerce platform
+- Wrote SQL queries against PostgreSQL and MySQL databases
+- Containerized services with Docker and deployed to GCP
+- Participated in Agile sprints and code reviews
+
+Junior Developer, CodeForge Solutions (2020 - 2022)
+- Maintained Flask-based internal tools
+- Automated testing pipelines using pytest and Jenkins
+
+EDUCATION
+B.E. in Information Technology, University of Pune, 2020
+
+SKILLS
+Python, Django, Flask, PostgreSQL, MySQL, Docker, GCP, Git, REST APIs,
+Agile, pytest, Jenkins

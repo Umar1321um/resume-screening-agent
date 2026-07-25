@@ -1,0 +1,22 @@
+Priya Nair
+Chennai, India | priya.nair@email.com | +91-90xxxxxxx4
+
+SUMMARY
+Frontend-focused web developer with 3 years of experience building responsive
+UIs using React and JavaScript. Limited backend exposure.
+
+EXPERIENCE
+Frontend Developer, PixelCraft Studio (2021 - Present)
+- Built responsive web applications using React, Redux, and TypeScript
+- Collaborated with backend teams consuming REST APIs
+- Improved page load performance by 30% through code splitting
+
+UI Developer, WebNest Solutions (2019 - 2021)
+- Developed landing pages and dashboards with HTML, CSS, and JavaScript
+- Used Figma for design handoff and prototyping
+
+EDUCATION
+B.Sc. in Computer Applications, University of Madras, 2019
+
+SKILLS
+JavaScript, React, Redux, TypeScript, HTML, CSS, Figma, Git, REST API consumption

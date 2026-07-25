@@ -1,0 +1,39 @@
+Job Title: Backend Software Engineer (Python)
+
+Company: Northwind Analytics
+
+About the Role:
+We are looking for a Backend Software Engineer with strong Python experience to
+design, build, and maintain scalable APIs and data pipelines. You will work
+closely with data scientists and product managers to ship reliable, well-tested
+services running in the cloud.
+
+Responsibilities:
+- Design and implement RESTful APIs using Python (FastAPI/Flask/Django)
+- Build and optimize data pipelines (ETL) processing large datasets
+- Write unit and integration tests; maintain CI/CD pipelines
+- Work with relational (PostgreSQL/MySQL) and NoSQL (MongoDB/Redis) databases
+- Deploy and monitor services on AWS or GCP using Docker and Kubernetes
+- Collaborate with cross-functional teams in an Agile environment
+- Mentor junior engineers and participate in code reviews
+
+Required Qualifications:
+- Bachelor's degree in Computer Science, Engineering, or a related field
+- 3+ years of professional experience in backend software development
+- Strong proficiency in Python and at least one web framework (FastAPI, Flask, or Django)
+- Experience with SQL databases and writing efficient queries
+- Familiarity with REST API design and microservices architecture
+- Experience with Git, CI/CD, and automated testing
+- Solid understanding of data structures, algorithms, and software design patterns
+
+Preferred Qualifications:
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Experience with Docker and Kubernetes
+- Familiarity with NLP, machine learning, or data science tooling
+- Experience with message queues (Kafka, RabbitMQ, SQS)
+- Prior experience mentoring or leading small engineering teams
+- Master's degree in a relevant technical field
+
+Skills: Python, FastAPI, Flask, Django, REST APIs, SQL, PostgreSQL, MongoDB,
+Docker, Kubernetes, AWS, GCP, CI/CD, Git, Microservices, Machine Learning,
+Data Pipelines, Kafka, Agile, Unit Testing

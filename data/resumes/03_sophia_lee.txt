@@ -1,0 +1,25 @@
+Sophia Lee
+San Francisco, CA | sophia.lee@email.com | (415) 555-0142
+
+SUMMARY
+Machine Learning Engineer with 4 years of experience building NLP systems and
+production ML pipelines, with strong Python and backend engineering skills.
+
+EXPERIENCE
+ML Engineer, Insight AI Labs (2021 - Present)
+- Built NLP pipelines for document classification using Python and spaCy
+- Deployed models as REST APIs using FastAPI on AWS Lambda and ECS
+- Built data pipelines with Kafka and Airflow processing text corpora
+- Collaborated with backend team to integrate ML services into microservices architecture
+
+Data Scientist, Quantify Corp (2019 - 2021)
+- Developed recommendation models using Python, scikit-learn, and PostgreSQL
+- Built internal dashboards and APIs with Flask
+
+EDUCATION
+M.S. in Computer Science (Machine Learning), Stanford University, 2019
+B.S. in Computer Science, UC San Diego, 2017
+
+SKILLS
+Python, FastAPI, Flask, PostgreSQL, AWS, Docker, Kafka, Machine Learning, NLP,
+scikit-learn, Airflow, Git, Microservices
